@@ -18,9 +18,9 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 Send **{amount}** to the address below:
 
-`{BTC_ADDRESS}`
+`{PAYMENT_ADDRESS}`
 
-🧾 After sending, take a **screenshot** or copy your **TXID**, and send it **directly to the group owner** 👉 @username for manual verification.
+🧾 After sending, take a *photo** or copy your **TXID**, and send it **directly to the group owner** 👉 @username for manual verification.
 
 🔐 Once verified, you'll be added to the **Group** online.
 
